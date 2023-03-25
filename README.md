@@ -13,7 +13,7 @@ I look forward to working with teams with passion and enthusiasm in open and cha
 - 📫 How to reach me: 
 
 
-#Social
+# Social
 
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/seydiemre/)
 
@@ -21,7 +21,7 @@ I look forward to working with teams with passion and enthusiasm in open and cha
 
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][seydiemre48@gmail.com]
 
-#skills
+# skills
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;

@@ -15,15 +15,13 @@ I look forward to working with teams with passion and enthusiasm in open and cha
 
 Social
 
-
-
-
-[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
-
-
+[![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/seydiemre/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/seyem.20/)
 
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][seydiemre48@gmail.com]
+
+
+[![Becerilerim](https://skills.thijs.gg/icons ?i=js,html,css,wasm )](https://skills.thijs.gg)
 
 
 statistics

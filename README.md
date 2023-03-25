@@ -21,7 +21,7 @@ Social
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][seydiemre48@gmail.com]
 
 
-[![Becerilerim](https://skills.thijs.gg/icons ?i=js,html,css,wasm )](https://skills.thijs.gg)
+[![Becerilerim](https://skills.thijs.gg/icons ?i=html )](https://skills.thijs.gg)
 
 
 statistics

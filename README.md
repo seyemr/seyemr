@@ -15,9 +15,14 @@ I look forward to working with teams with passion and enthusiasm in open and cha
 
 Social
 
-https://www.linkedin.com/in/seydiemre/
+
+
+<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][https://www.linkedin.com/in/seydiemre/]
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/seyem.20/)
+
+[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][seydiemre48@gmail.com]
+
 
 statistics
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=radical)
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=seyemr&show_icons=true&theme=radical)

@@ -10,10 +10,10 @@ I look forward to working with teams with passion and enthusiasm in open and cha
 
 - 🔭 I’m currently working on HTML, CSS, BOOTSTRAP, SCSS, SASS
 - 🌱 I’m currently learning JAVASCRİPT
-- 📫 How to reach me: 
 
 
-# Social
+
+# - 📫 How to reach me: 
 
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/seydiemre/)
 
@@ -25,6 +25,7 @@ I look forward to working with teams with passion and enthusiasm in open and cha
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   
 
 

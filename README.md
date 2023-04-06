@@ -9,7 +9,7 @@ I have a passion for developing functional web applications that are always open
 I look forward to working with teams with passion and enthusiasm in open and challenging projects.
 
 - 🔭 I’m currently working on HTML, CSS, BOOTSTRAP, SCSS, SASS
-- 🌱 I’m currently learning JAVASCRİPT
+- 🌱 I’m currently learning JAVASCRİPT & PYTHON
 
 
 

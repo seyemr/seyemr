@@ -8,8 +8,8 @@ I develop interactive user interfaces using HTML, CSS, BOOTSRAP and SCSS.
 I have a passion for developing functional web applications that are always open to development. I can work both individually and as part of a team with high motivation.
 I look forward to working with teams with passion and enthusiasm in open and challenging projects.
 
-- 🔭 I’m currently working on HTML, CSS, BOOTSTRAP, SCSS, SASS
-- 🌱 I’m currently learning JAVASCRİPT & PYTHON
+- 🔭 I’m currently working on HTML, CSS, BOOTSTRAP, SCSS, SASS, JAVASCRIPT, REACT
+- 🌱 I’m currently learning  REACT
 
 
 
@@ -28,6 +28,10 @@ I look forward to working with teams with passion and enthusiasm in open and cha
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+
   
 
 

@@ -4,7 +4,7 @@
 
 I have been actively working in the programming field for a year.
 I always aim for the best and the most improvable. I always take firm steps forward on this path and take steps passionately and enthusiastically by learning more about software.
-I develop interactive user interfaces using HTML, CSS, BOOTSRAP and SCSS. 
+I develop interactive user interfaces using HTML, CSS, BOOTSRAP, SCSS, SASS JAVASCRIPT, API, REACT and TAİLWİND CSS. 
 I have a passion for developing functional web applications that are always open to development. I can work both individually and as part of a team with high motivation.
 I look forward to working with teams with passion and enthusiasm in open and challenging projects.
 

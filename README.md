@@ -19,7 +19,7 @@ I look forward to working with teams with passion and enthusiasm in open and cha
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/seyem.20/)
 
-[Twitter](https://img.shields.io/badge/-twitter-C13584?style=flat-quare&labelColor=C13584&logo=twitter&logoColor=white&link=link)
+Twitter(https://img.shields.io/badge/-twitter-C13584?style=flat-quare&labelColor=C13584&logo=twitter&logoColor=white&link=link)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seydiemre48@gmail.com)
 

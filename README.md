@@ -8,8 +8,8 @@ I develop interactive user interfaces using HTML, CSS, BOOTSRAP, SCSS, SASS JAVA
 I have a passion for developing functional web applications that are always open to development. I can work both individually and as part of a team with high motivation.
 I look forward to working with teams with passion and enthusiasm in open and challenging projects.
 
-- 🔭 I’m currently working on HTML, CSS, BOOTSTRAP, SCSS, SASS, JAVASCRIPT, REACT
-- 🌱 I’m currently learning  REACT
+- 🔭 I’m currently working on HTML, CSS, BOOTSTRAP, SCSS, SASS, JAVASCRIPT, REACT, REDUX
+- 🌱 I’m currently learning  TypeScript and React Native
 
 
 
